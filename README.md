@@ -11,7 +11,7 @@
                    ███████ ██    ██ ███████
                                                                               
    
-GDI Malware made by me | you need .net 3.5 (This is malware IDKDUDE is not held responsible for any damages caused by this exe please use it responsibly and safely. This is basically Nostruct.exe But a grey scale GDI malware and heavily used Plgblt and Stretchblt on most of the drawers so far (If you are running this on windows xp the bytebeats may sound glitchy) The MBR is also tri staged while it is still in 16 bit real mode rather than 32 bit because I heavily rely on bios interrupts.
+SteelNull made by me | you need .net 3.5 (This is malware IDKDUDE is not held responsible for any damages caused by this exe please use it responsibly and safely. This is basically Nostruct.exe But a grey scale GDI malware and heavily used Plgblt and Stretchblt on most of the drawers so far (If you are running this on windows xp the bytebeats may sound glitchy) The MBR is also tri staged while it is still in 16 bit real mode rather than 32 bit because I heavily rely on bios interrupts.
 <img width="1594" height="838" alt="image" src="https://github.com/user-attachments/assets/172ea975-9392-4646-8701-83219cb99178" />
 <img width="1585" height="847" alt="image" src="https://github.com/user-attachments/assets/c7d4b3d9-9691-4a0d-a373-8ead76afd660" />
 <img width="1589" height="843" alt="image" src="https://github.com/user-attachments/assets/50f83ba6-7c84-4a72-bed4-629ee3ac3e22" />
